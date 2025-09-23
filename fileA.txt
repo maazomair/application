@@ -1,2 +1,3 @@
 hello this is new file A which i am entering
 please chech is updated
+this i want to add to master branch
